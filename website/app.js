@@ -28,7 +28,6 @@ const imgsArr = [
   'Snow',
 ];
 
-console.log(imgEl);
 //* Create a new date instance dynamically with JS
 let date = new Date();
 let newDate = `${date.getMonth() + 1}/${date.getDate()}/${date.getFullYear()}`;
